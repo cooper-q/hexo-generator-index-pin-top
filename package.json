@@ -15,7 +15,7 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "repository": "hexojs/hexo-generator-index",
+  "repository": "netcan/hexo-generator-index",
   "homepage": "http://hexo.io/",
   "keywords": [
     "hexo",
@@ -23,7 +23,7 @@
     "index",
     "home"
   ],
-  "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
+  "author": "Netcan <netcan1996@gmail.com> (http://netcan666.com)",
   "license": "MIT",
   "devDependencies": {
     "chai": "^3.4.0",
