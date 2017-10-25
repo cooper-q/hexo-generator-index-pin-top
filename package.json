@@ -1,7 +1,7 @@
 {
-  "name": "hexo-generator-index",
-  "version": "0.2.1",
-  "description": "Index generator for Hexo.",
+  "name": "hexo-generator-index-pin-top",
+  "version": "0.2.2",
+  "description": "Index generator for Hexo.(pin top version)",
   "main": "index",
   "scripts": {
     "eslint": "eslint .",
@@ -15,7 +15,7 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "repository": "netcan/hexo-generator-index",
+  "repository": "netcan/hexo-generator-index-pin-top",
   "homepage": "http://hexo.io/",
   "keywords": [
     "hexo",
